@@ -1,1 +1,2 @@
-# text-gulp-1
+# index-gulp
+gulp watch
